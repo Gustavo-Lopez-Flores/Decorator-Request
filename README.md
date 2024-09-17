@@ -60,7 +60,7 @@ src/
 
 ## Diagrama de Classe
 
-![Diagrama de Classe](#)
+![Diagrama de Classe](imgs/modelo.png)
 
 
 
