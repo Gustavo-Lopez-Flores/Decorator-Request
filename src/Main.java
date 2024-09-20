@@ -1,3 +1,4 @@
+package src;
 public class Main {
     public static void main(String[] args) {
         ScoreClient client = new CachedClient(new ControlledClient(new APIClient()));
